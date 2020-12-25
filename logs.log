@@ -1,0 +1,2252 @@
+2020-12-24 21:58:42,490:INFO:Initializing load_model()
+2020-12-24 21:58:42,490:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:00:56,295:INFO:Initializing load_model()
+2020-12-24 22:00:56,296:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:04:01,274:INFO:Initializing load_model()
+2020-12-24 22:04:01,275:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:04:05,724:INFO:Initializing load_model()
+2020-12-24 22:04:05,725:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:04:07,629:INFO:Initializing load_model()
+2020-12-24 22:04:07,635:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:04:09,674:INFO:Initializing load_model()
+2020-12-24 22:04:09,674:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:05:42,828:INFO:Initializing load_model()
+2020-12-24 22:05:42,829:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:07:01,182:INFO:Initializing load_model()
+2020-12-24 22:07:01,182:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:07:05,538:INFO:Initializing load_model()
+2020-12-24 22:07:05,540:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:07:07,372:INFO:Initializing load_model()
+2020-12-24 22:07:07,373:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:16:50,401:INFO:Initializing load_model()
+2020-12-24 22:16:50,401:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:17:01,374:INFO:Initializing load_model()
+2020-12-24 22:17:01,378:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:17:51,217:INFO:Initializing load_model()
+2020-12-24 22:17:51,217:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:16,315:INFO:Initializing load_model()
+2020-12-24 22:18:16,315:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:27,834:INFO:Initializing load_model()
+2020-12-24 22:18:27,835:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:31,616:INFO:Initializing load_model()
+2020-12-24 22:18:31,620:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:31,925:INFO:Initializing load_model()
+2020-12-24 22:18:31,925:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:36,581:INFO:Initializing load_model()
+2020-12-24 22:18:36,582:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:36,815:INFO:Initializing load_model()
+2020-12-24 22:18:36,816:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:39,692:INFO:Initializing load_model()
+2020-12-24 22:18:39,692:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:39,907:INFO:Initializing load_model()
+2020-12-24 22:18:39,908:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:42,958:INFO:Initializing load_model()
+2020-12-24 22:18:42,959:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:18:43,157:INFO:Initializing load_model()
+2020-12-24 22:18:43,157:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:14,141:INFO:Initializing load_model()
+2020-12-24 22:19:14,143:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:43,580:INFO:Initializing load_model()
+2020-12-24 22:19:43,581:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:47,653:INFO:Initializing load_model()
+2020-12-24 22:19:47,654:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:49,474:INFO:Initializing load_model()
+2020-12-24 22:19:49,475:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:49,700:INFO:Initializing load_model()
+2020-12-24 22:19:49,701:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:53,068:INFO:Initializing load_model()
+2020-12-24 22:19:53,068:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:19:53,276:INFO:Initializing load_model()
+2020-12-24 22:19:53,278:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:20:54,102:INFO:Initializing load_model()
+2020-12-24 22:20:54,102:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:25:38,847:INFO:Initializing load_model()
+2020-12-24 22:25:38,851:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:33:08,448:INFO:Initializing load_model()
+2020-12-24 22:33:08,448:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:33:17,302:INFO:Initializing load_model()
+2020-12-24 22:33:17,303:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:33:19,195:INFO:Initializing load_model()
+2020-12-24 22:33:19,195:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:33:23,953:INFO:Initializing load_model()
+2020-12-24 22:33:23,955:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:14,918:INFO:Initializing load_model()
+2020-12-24 22:34:14,918:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:20,738:INFO:Initializing load_model()
+2020-12-24 22:34:20,738:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:22,786:INFO:Initializing load_model()
+2020-12-24 22:34:22,787:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:34,455:INFO:Initializing load_model()
+2020-12-24 22:34:34,456:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:34,690:INFO:Initializing load_model()
+2020-12-24 22:34:34,690:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:37,957:INFO:Initializing load_model()
+2020-12-24 22:34:37,958:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:34:38,709:INFO:Initializing load_model()
+2020-12-24 22:34:38,710:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:43:33,816:INFO:Initializing load_model()
+2020-12-24 22:43:33,816:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:44:25,715:INFO:Initializing load_model()
+2020-12-24 22:44:25,715:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:44:44,861:INFO:Initializing load_model()
+2020-12-24 22:44:44,862:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:45:06,408:INFO:Initializing load_model()
+2020-12-24 22:45:06,409:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:45:18,451:INFO:Initializing load_model()
+2020-12-24 22:45:18,451:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:45:28,735:INFO:Initializing load_model()
+2020-12-24 22:45:28,736:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:45:31,374:INFO:Initializing load_model()
+2020-12-24 22:45:31,375:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:45:32,303:INFO:Initializing load_model()
+2020-12-24 22:45:32,303:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:45:32,459:INFO:Initializing load_model()
+2020-12-24 22:45:32,460:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:24,486:INFO:Initializing load_model()
+2020-12-24 22:49:24,486:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:24,670:INFO:Initializing predict_model()
+2020-12-24 22:49:24,671:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01472B0>]]))
+2020-12-24 22:49:24,679:INFO:Checking exceptions
+2020-12-24 22:49:24,680:INFO:Preloading libraries
+2020-12-24 22:49:35,742:INFO:Initializing load_model()
+2020-12-24 22:49:35,743:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:35,899:INFO:Initializing predict_model()
+2020-12-24 22:49:35,899:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01D6668>]]))
+2020-12-24 22:49:35,900:INFO:Checking exceptions
+2020-12-24 22:49:35,901:INFO:Preloading libraries
+2020-12-24 22:49:36,096:INFO:Initializing load_model()
+2020-12-24 22:49:36,097:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:36,258:INFO:Initializing predict_model()
+2020-12-24 22:49:36,259:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF040CEB8>]]))
+2020-12-24 22:49:36,260:INFO:Checking exceptions
+2020-12-24 22:49:36,261:INFO:Preloading libraries
+2020-12-24 22:49:37,238:INFO:Initializing load_model()
+2020-12-24 22:49:37,238:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:37,395:INFO:Initializing predict_model()
+2020-12-24 22:49:37,396:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CEE400BE0>]]))
+2020-12-24 22:49:37,397:INFO:Checking exceptions
+2020-12-24 22:49:37,397:INFO:Preloading libraries
+2020-12-24 22:49:40,656:INFO:Initializing load_model()
+2020-12-24 22:49:40,656:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:40,813:INFO:Initializing predict_model()
+2020-12-24 22:49:40,813:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF02186A0>]]))
+2020-12-24 22:49:40,815:INFO:Checking exceptions
+2020-12-24 22:49:40,815:INFO:Preloading libraries
+2020-12-24 22:49:42,496:INFO:Initializing load_model()
+2020-12-24 22:49:42,497:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:42,657:INFO:Initializing predict_model()
+2020-12-24 22:49:42,657:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021C358>]]))
+2020-12-24 22:49:42,659:INFO:Checking exceptions
+2020-12-24 22:49:42,659:INFO:Preloading libraries
+2020-12-24 22:49:52,375:INFO:Initializing load_model()
+2020-12-24 22:49:52,375:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:52,534:INFO:Initializing predict_model()
+2020-12-24 22:49:52,535:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021C9E8>]]))
+2020-12-24 22:49:52,536:INFO:Checking exceptions
+2020-12-24 22:49:52,536:INFO:Preloading libraries
+2020-12-24 22:49:53,978:INFO:Initializing load_model()
+2020-12-24 22:49:53,978:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:54,129:INFO:Initializing predict_model()
+2020-12-24 22:49:54,129:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021C6A0>]]))
+2020-12-24 22:49:54,131:INFO:Checking exceptions
+2020-12-24 22:49:54,131:INFO:Preloading libraries
+2020-12-24 22:49:54,321:INFO:Initializing load_model()
+2020-12-24 22:49:54,321:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:54,477:INFO:Initializing predict_model()
+2020-12-24 22:49:54,478:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF03E0EB8>]]))
+2020-12-24 22:49:54,480:INFO:Checking exceptions
+2020-12-24 22:49:54,480:INFO:Preloading libraries
+2020-12-24 22:49:55,445:INFO:Initializing load_model()
+2020-12-24 22:49:55,446:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:55,532:INFO:Initializing load_model()
+2020-12-24 22:49:55,532:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:55,697:INFO:Initializing predict_model()
+2020-12-24 22:49:55,698:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF03E0400>]]))
+2020-12-24 22:49:55,699:INFO:Checking exceptions
+2020-12-24 22:49:55,699:INFO:Preloading libraries
+2020-12-24 22:49:56,667:INFO:Initializing load_model()
+2020-12-24 22:49:56,668:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:56,759:INFO:Initializing load_model()
+2020-12-24 22:49:56,759:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:56,931:INFO:Initializing predict_model()
+2020-12-24 22:49:56,931:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF03E0668>]]))
+2020-12-24 22:49:56,935:INFO:Checking exceptions
+2020-12-24 22:49:56,935:INFO:Preloading libraries
+2020-12-24 22:49:59,782:INFO:Initializing load_model()
+2020-12-24 22:49:59,782:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:49:59,940:INFO:Initializing predict_model()
+2020-12-24 22:49:59,941:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01237F0>]]))
+2020-12-24 22:49:59,942:INFO:Checking exceptions
+2020-12-24 22:49:59,942:INFO:Preloading libraries
+2020-12-24 22:50:07,124:INFO:Initializing load_model()
+2020-12-24 22:50:07,124:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:07,281:INFO:Initializing predict_model()
+2020-12-24 22:50:07,282:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01272B0>]]))
+2020-12-24 22:50:07,283:INFO:Checking exceptions
+2020-12-24 22:50:07,283:INFO:Preloading libraries
+2020-12-24 22:50:07,471:INFO:Initializing load_model()
+2020-12-24 22:50:07,472:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:07,635:INFO:Initializing predict_model()
+2020-12-24 22:50:07,635:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF040FE80>]]))
+2020-12-24 22:50:07,636:INFO:Checking exceptions
+2020-12-24 22:50:07,637:INFO:Preloading libraries
+2020-12-24 22:50:09,500:INFO:Initializing load_model()
+2020-12-24 22:50:09,501:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:09,657:INFO:Initializing predict_model()
+2020-12-24 22:50:09,657:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0147D68>]]))
+2020-12-24 22:50:09,659:INFO:Checking exceptions
+2020-12-24 22:50:09,659:INFO:Preloading libraries
+2020-12-24 22:50:09,841:INFO:Initializing load_model()
+2020-12-24 22:50:09,841:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:10,009:INFO:Initializing predict_model()
+2020-12-24 22:50:10,009:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF040DE80>]]))
+2020-12-24 22:50:10,010:INFO:Checking exceptions
+2020-12-24 22:50:10,010:INFO:Preloading libraries
+2020-12-24 22:50:10,972:INFO:Initializing load_model()
+2020-12-24 22:50:10,972:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:11,056:INFO:Initializing load_model()
+2020-12-24 22:50:11,057:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:11,224:INFO:Initializing predict_model()
+2020-12-24 22:50:11,224:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF040D5C0>]]))
+2020-12-24 22:50:11,225:INFO:Checking exceptions
+2020-12-24 22:50:11,226:INFO:Preloading libraries
+2020-12-24 22:50:12,457:INFO:Initializing load_model()
+2020-12-24 22:50:12,458:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:12,619:INFO:Initializing predict_model()
+2020-12-24 22:50:12,619:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0208438>]]))
+2020-12-24 22:50:12,621:INFO:Checking exceptions
+2020-12-24 22:50:12,621:INFO:Preloading libraries
+2020-12-24 22:50:12,867:INFO:Initializing load_model()
+2020-12-24 22:50:12,868:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:13,040:INFO:Initializing predict_model()
+2020-12-24 22:50:14,063:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0400E80>]]))
+2020-12-24 22:50:14,065:INFO:Checking exceptions
+2020-12-24 22:50:14,066:INFO:Preloading libraries
+2020-12-24 22:50:14,245:INFO:Initializing load_model()
+2020-12-24 22:50:14,245:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:50:14,406:INFO:Initializing predict_model()
+2020-12-24 22:50:14,407:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF055DDA0>]]))
+2020-12-24 22:50:14,408:INFO:Checking exceptions
+2020-12-24 22:50:14,409:INFO:Preloading libraries
+2020-12-24 22:52:07,224:INFO:Initializing load_model()
+2020-12-24 22:52:07,225:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:52:07,380:INFO:Initializing predict_model()
+2020-12-24 22:52:07,381:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021CCF8>]]))
+2020-12-24 22:52:07,382:INFO:Checking exceptions
+2020-12-24 22:52:07,382:INFO:Preloading libraries
+2020-12-24 22:52:14,197:INFO:Initializing load_model()
+2020-12-24 22:52:14,197:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:52:14,345:INFO:Initializing predict_model()
+2020-12-24 22:52:14,346:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B6A0>]]))
+2020-12-24 22:52:14,347:INFO:Checking exceptions
+2020-12-24 22:52:14,348:INFO:Preloading libraries
+2020-12-24 22:52:48,431:INFO:Initializing load_model()
+2020-12-24 22:52:48,432:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:52:48,585:INFO:Initializing predict_model()
+2020-12-24 22:52:48,586:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF04004E0>]]))
+2020-12-24 22:52:48,588:INFO:Checking exceptions
+2020-12-24 22:52:48,588:INFO:Preloading libraries
+2020-12-24 22:53:03,872:INFO:Initializing load_model()
+2020-12-24 22:53:03,873:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:53:04,036:INFO:Initializing predict_model()
+2020-12-24 22:53:04,036:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF04008D0>]]))
+2020-12-24 22:53:04,037:INFO:Checking exceptions
+2020-12-24 22:53:04,038:INFO:Preloading libraries
+2020-12-24 22:54:21,165:INFO:Initializing load_model()
+2020-12-24 22:54:21,165:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:54:21,332:INFO:Initializing predict_model()
+2020-12-24 22:54:21,332:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF04005F8>]]))
+2020-12-24 22:54:21,334:INFO:Checking exceptions
+2020-12-24 22:54:21,334:INFO:Preloading libraries
+2020-12-24 22:54:23,552:INFO:Initializing load_model()
+2020-12-24 22:54:23,552:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:54:23,716:INFO:Initializing predict_model()
+2020-12-24 22:54:23,717:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0400F60>]]))
+2020-12-24 22:54:23,720:INFO:Checking exceptions
+2020-12-24 22:54:23,720:INFO:Preloading libraries
+2020-12-24 22:56:22,602:INFO:Initializing load_model()
+2020-12-24 22:56:22,602:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:56:26,033:INFO:Initializing load_model()
+2020-12-24 22:56:26,033:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:56:26,184:INFO:Initializing predict_model()
+2020-12-24 22:56:26,184:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0400BA8>]]))
+2020-12-24 22:56:26,185:INFO:Checking exceptions
+2020-12-24 22:56:26,186:INFO:Preloading libraries
+2020-12-24 22:56:42,334:INFO:Initializing load_model()
+2020-12-24 22:56:42,335:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:56:44,509:INFO:Initializing load_model()
+2020-12-24 22:56:44,510:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:56:44,666:INFO:Initializing predict_model()
+2020-12-24 22:56:44,666:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0400160>]]))
+2020-12-24 22:56:44,667:INFO:Checking exceptions
+2020-12-24 22:56:44,668:INFO:Preloading libraries
+2020-12-24 22:58:54,286:INFO:Initializing load_model()
+2020-12-24 22:58:54,286:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:58:56,310:INFO:Initializing load_model()
+2020-12-24 22:58:56,311:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:58:56,470:INFO:Initializing predict_model()
+2020-12-24 22:58:56,470:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036D748>]]))
+2020-12-24 22:58:56,471:INFO:Checking exceptions
+2020-12-24 22:58:56,472:INFO:Preloading libraries
+2020-12-24 22:59:03,594:INFO:Initializing load_model()
+2020-12-24 22:59:03,594:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:04,143:INFO:Initializing load_model()
+2020-12-24 22:59:04,143:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:04,233:INFO:Initializing load_model()
+2020-12-24 22:59:04,233:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:05,196:INFO:Initializing load_model()
+2020-12-24 22:59:05,197:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:05,295:INFO:Initializing load_model()
+2020-12-24 22:59:05,295:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:06,251:INFO:Initializing load_model()
+2020-12-24 22:59:06,251:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:06,340:INFO:Initializing load_model()
+2020-12-24 22:59:06,340:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:07,297:INFO:Initializing load_model()
+2020-12-24 22:59:07,297:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:07,388:INFO:Initializing load_model()
+2020-12-24 22:59:07,389:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:08,354:INFO:Initializing load_model()
+2020-12-24 22:59:08,354:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:08,445:INFO:Initializing load_model()
+2020-12-24 22:59:08,446:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:09,982:INFO:Initializing load_model()
+2020-12-24 22:59:09,983:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:10,145:INFO:Initializing predict_model()
+2020-12-24 22:59:10,146:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0127C18>]]))
+2020-12-24 22:59:10,148:INFO:Checking exceptions
+2020-12-24 22:59:10,149:INFO:Preloading libraries
+2020-12-24 22:59:21,634:INFO:Initializing load_model()
+2020-12-24 22:59:21,634:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:25,101:INFO:Initializing load_model()
+2020-12-24 22:59:25,101:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:25,258:INFO:Initializing predict_model()
+2020-12-24 22:59:25,259:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF00F6C18>]]))
+2020-12-24 22:59:25,260:INFO:Checking exceptions
+2020-12-24 22:59:25,260:INFO:Preloading libraries
+2020-12-24 22:59:29,460:INFO:Initializing load_model()
+2020-12-24 22:59:29,460:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:30,006:INFO:Initializing load_model()
+2020-12-24 22:59:30,007:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:30,095:INFO:Initializing load_model()
+2020-12-24 22:59:30,095:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:31,042:INFO:Initializing load_model()
+2020-12-24 22:59:31,043:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:31,130:INFO:Initializing load_model()
+2020-12-24 22:59:31,131:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:32,087:INFO:Initializing load_model()
+2020-12-24 22:59:32,087:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:32,254:INFO:Initializing predict_model()
+2020-12-24 22:59:32,254:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF020F9B0>]]))
+2020-12-24 22:59:32,256:INFO:Checking exceptions
+2020-12-24 22:59:32,256:INFO:Preloading libraries
+2020-12-24 22:59:33,703:INFO:Initializing load_model()
+2020-12-24 22:59:33,704:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:34,262:INFO:Initializing load_model()
+2020-12-24 22:59:34,262:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:34,355:INFO:Initializing load_model()
+2020-12-24 22:59:34,356:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:35,341:INFO:Initializing load_model()
+2020-12-24 22:59:35,341:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:35,435:INFO:Initializing load_model()
+2020-12-24 22:59:35,435:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:36,394:INFO:Initializing load_model()
+2020-12-24 22:59:36,394:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 22:59:36,557:INFO:Initializing predict_model()
+2020-12-24 22:59:36,558:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF020FA58>]]))
+2020-12-24 22:59:36,559:INFO:Checking exceptions
+2020-12-24 22:59:36,559:INFO:Preloading libraries
+2020-12-24 22:59:47,462:INFO:Initializing load_model()
+2020-12-24 22:59:47,463:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:00:11,141:INFO:Initializing load_model()
+2020-12-24 23:00:11,142:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:00:11,302:INFO:Initializing predict_model()
+2020-12-24 23:00:11,303:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF00F6C18>]]))
+2020-12-24 23:00:11,304:INFO:Checking exceptions
+2020-12-24 23:00:11,304:INFO:Preloading libraries
+2020-12-24 23:00:16,800:INFO:Initializing load_model()
+2020-12-24 23:00:16,801:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:00:18,158:INFO:Initializing load_model()
+2020-12-24 23:00:18,158:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:00:18,320:INFO:Initializing predict_model()
+2020-12-24 23:00:18,321:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01400B8>]]))
+2020-12-24 23:00:18,322:INFO:Checking exceptions
+2020-12-24 23:00:18,325:INFO:Preloading libraries
+2020-12-24 23:01:07,212:INFO:Initializing load_model()
+2020-12-24 23:01:07,212:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:07,376:INFO:Initializing predict_model()
+2020-12-24 23:01:07,376:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0212E80>]]))
+2020-12-24 23:01:07,377:INFO:Checking exceptions
+2020-12-24 23:01:07,378:INFO:Preloading libraries
+2020-12-24 23:01:10,860:INFO:Initializing load_model()
+2020-12-24 23:01:10,860:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:13,620:INFO:Initializing load_model()
+2020-12-24 23:01:13,620:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:13,775:INFO:Initializing predict_model()
+2020-12-24 23:01:13,776:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0140588>]]))
+2020-12-24 23:01:13,777:INFO:Checking exceptions
+2020-12-24 23:01:13,777:INFO:Preloading libraries
+2020-12-24 23:01:18,223:INFO:Initializing load_model()
+2020-12-24 23:01:18,223:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:19,609:INFO:Initializing load_model()
+2020-12-24 23:01:19,609:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:19,770:INFO:Initializing predict_model()
+2020-12-24 23:01:19,771:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01405C0>]]))
+2020-12-24 23:01:19,772:INFO:Checking exceptions
+2020-12-24 23:01:19,773:INFO:Preloading libraries
+2020-12-24 23:01:42,450:INFO:Initializing load_model()
+2020-12-24 23:01:42,450:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:44,883:INFO:Initializing load_model()
+2020-12-24 23:01:44,885:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:45,049:INFO:Initializing predict_model()
+2020-12-24 23:01:45,049:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0140BA8>]]))
+2020-12-24 23:01:45,051:INFO:Checking exceptions
+2020-12-24 23:01:45,051:INFO:Preloading libraries
+2020-12-24 23:01:51,187:INFO:Initializing load_model()
+2020-12-24 23:01:51,187:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:52,762:INFO:Initializing load_model()
+2020-12-24 23:01:52,763:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:52,926:INFO:Initializing predict_model()
+2020-12-24 23:01:52,927:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0140630>]]))
+2020-12-24 23:01:52,928:INFO:Checking exceptions
+2020-12-24 23:01:52,928:INFO:Preloading libraries
+2020-12-24 23:01:56,978:INFO:Initializing load_model()
+2020-12-24 23:01:56,978:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:57,534:INFO:Initializing load_model()
+2020-12-24 23:01:57,534:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:57,626:INFO:Initializing load_model()
+2020-12-24 23:01:57,626:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:58,589:INFO:Initializing load_model()
+2020-12-24 23:01:58,589:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:58,680:INFO:Initializing load_model()
+2020-12-24 23:01:58,681:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:59,636:INFO:Initializing load_model()
+2020-12-24 23:01:59,636:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:01:59,724:INFO:Initializing load_model()
+2020-12-24 23:01:59,725:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:00,712:INFO:Initializing load_model()
+2020-12-24 23:02:00,712:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:00,880:INFO:Initializing predict_model()
+2020-12-24 23:02:00,881:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021C828>]]))
+2020-12-24 23:02:00,883:INFO:Checking exceptions
+2020-12-24 23:02:00,883:INFO:Preloading libraries
+2020-12-24 23:02:03,963:INFO:Initializing load_model()
+2020-12-24 23:02:03,963:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:04,512:INFO:Initializing load_model()
+2020-12-24 23:02:04,512:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:04,602:INFO:Initializing load_model()
+2020-12-24 23:02:04,603:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:05,546:INFO:Initializing load_model()
+2020-12-24 23:02:05,547:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:05,630:INFO:Initializing load_model()
+2020-12-24 23:02:05,631:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:06,586:INFO:Initializing load_model()
+2020-12-24 23:02:06,586:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:07,304:INFO:Initializing load_model()
+2020-12-24 23:02:07,304:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:07,463:INFO:Initializing predict_model()
+2020-12-24 23:02:07,464:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF013E2E8>]]))
+2020-12-24 23:02:07,465:INFO:Checking exceptions
+2020-12-24 23:02:07,465:INFO:Preloading libraries
+2020-12-24 23:02:09,410:INFO:Initializing load_model()
+2020-12-24 23:02:09,410:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:09,954:INFO:Initializing load_model()
+2020-12-24 23:02:09,954:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:10,044:INFO:Initializing load_model()
+2020-12-24 23:02:10,045:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:11,022:INFO:Initializing load_model()
+2020-12-24 23:02:11,022:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:11,111:INFO:Initializing load_model()
+2020-12-24 23:02:11,111:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:26,981:INFO:Initializing load_model()
+2020-12-24 23:02:26,981:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:28,264:INFO:Initializing load_model()
+2020-12-24 23:02:28,264:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:28,422:INFO:Initializing predict_model()
+2020-12-24 23:02:28,422:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0147C50>]]))
+2020-12-24 23:02:28,423:INFO:Checking exceptions
+2020-12-24 23:02:28,424:INFO:Preloading libraries
+2020-12-24 23:02:31,822:INFO:Initializing load_model()
+2020-12-24 23:02:31,822:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:33,087:INFO:Initializing load_model()
+2020-12-24 23:02:33,088:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:33,242:INFO:Initializing predict_model()
+2020-12-24 23:02:33,242:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021F048>]]))
+2020-12-24 23:02:33,244:INFO:Checking exceptions
+2020-12-24 23:02:33,244:INFO:Preloading libraries
+2020-12-24 23:02:36,461:INFO:Initializing load_model()
+2020-12-24 23:02:36,461:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:38,743:INFO:Initializing load_model()
+2020-12-24 23:02:38,743:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:40,318:INFO:Initializing load_model()
+2020-12-24 23:02:40,318:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:40,491:INFO:Initializing predict_model()
+2020-12-24 23:02:40,491:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0147390>]]))
+2020-12-24 23:02:40,493:INFO:Checking exceptions
+2020-12-24 23:02:40,494:INFO:Preloading libraries
+2020-12-24 23:02:50,285:INFO:Initializing load_model()
+2020-12-24 23:02:50,285:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:51,494:INFO:Initializing load_model()
+2020-12-24 23:02:51,494:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:02:51,648:INFO:Initializing predict_model()
+2020-12-24 23:02:51,650:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF01470B8>]]))
+2020-12-24 23:02:51,651:INFO:Checking exceptions
+2020-12-24 23:02:51,651:INFO:Preloading libraries
+2020-12-24 23:03:35,907:INFO:Initializing load_model()
+2020-12-24 23:03:35,907:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:38,334:INFO:Initializing load_model()
+2020-12-24 23:03:38,335:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:38,498:INFO:Initializing predict_model()
+2020-12-24 23:03:38,499:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0147E10>]]))
+2020-12-24 23:03:38,501:INFO:Checking exceptions
+2020-12-24 23:03:38,501:INFO:Preloading libraries
+2020-12-24 23:03:41,513:INFO:Initializing load_model()
+2020-12-24 23:03:41,513:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:43,090:INFO:Initializing load_model()
+2020-12-24 23:03:43,090:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:43,249:INFO:Initializing predict_model()
+2020-12-24 23:03:43,250:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021CC88>]]))
+2020-12-24 23:03:43,251:INFO:Checking exceptions
+2020-12-24 23:03:43,252:INFO:Preloading libraries
+2020-12-24 23:03:46,910:INFO:Initializing load_model()
+2020-12-24 23:03:46,910:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:47,813:INFO:Initializing load_model()
+2020-12-24 23:03:47,813:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:47,984:INFO:Initializing predict_model()
+2020-12-24 23:03:47,984:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021CAC8>]]))
+2020-12-24 23:03:47,986:INFO:Checking exceptions
+2020-12-24 23:03:47,986:INFO:Preloading libraries
+2020-12-24 23:03:49,855:INFO:Initializing load_model()
+2020-12-24 23:03:49,856:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:50,529:INFO:Initializing load_model()
+2020-12-24 23:03:50,530:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:03:50,690:INFO:Initializing predict_model()
+2020-12-24 23:03:50,691:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF021CD30>]]))
+2020-12-24 23:03:50,692:INFO:Checking exceptions
+2020-12-24 23:03:50,693:INFO:Preloading libraries
+2020-12-24 23:08:41,334:INFO:Initializing load_model()
+2020-12-24 23:08:41,335:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:09:59,411:INFO:Initializing load_model()
+2020-12-24 23:09:59,411:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:11:51,055:INFO:Initializing load_model()
+2020-12-24 23:11:51,056:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:13:02,042:INFO:Initializing load_model()
+2020-12-24 23:13:02,043:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:13:15,794:INFO:Initializing load_model()
+2020-12-24 23:13:15,794:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:13:15,953:INFO:Initializing predict_model()
+2020-12-24 23:13:15,954:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF013E828>]]))
+2020-12-24 23:13:15,956:INFO:Checking exceptions
+2020-12-24 23:13:15,956:INFO:Preloading libraries
+2020-12-24 23:13:44,612:INFO:Initializing load_model()
+2020-12-24 23:13:44,612:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:13:46,556:INFO:Initializing load_model()
+2020-12-24 23:13:46,557:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:13:46,717:INFO:Initializing predict_model()
+2020-12-24 23:13:46,717:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF03F1B38>]]))
+2020-12-24 23:13:46,719:INFO:Checking exceptions
+2020-12-24 23:13:46,719:INFO:Preloading libraries
+2020-12-24 23:14:22,362:INFO:Initializing load_model()
+2020-12-24 23:14:22,362:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:15:49,791:INFO:Initializing load_model()
+2020-12-24 23:15:49,791:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:16:00,305:INFO:Initializing load_model()
+2020-12-24 23:16:00,305:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:16:00,463:INFO:Initializing predict_model()
+2020-12-24 23:16:00,463:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF013EF60>]]))
+2020-12-24 23:16:00,465:INFO:Checking exceptions
+2020-12-24 23:16:00,466:INFO:Preloading libraries
+2020-12-24 23:17:29,037:INFO:Initializing load_model()
+2020-12-24 23:17:29,038:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:17:31,683:INFO:Initializing load_model()
+2020-12-24 23:17:31,684:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:17:31,837:INFO:Initializing predict_model()
+2020-12-24 23:17:31,838:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0215DD8>]]))
+2020-12-24 23:17:31,839:INFO:Checking exceptions
+2020-12-24 23:17:31,839:INFO:Preloading libraries
+2020-12-24 23:17:59,958:INFO:Initializing load_model()
+2020-12-24 23:17:59,958:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:18:02,153:INFO:Initializing load_model()
+2020-12-24 23:18:02,153:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:18:02,303:INFO:Initializing predict_model()
+2020-12-24 23:18:02,304:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0215898>]]))
+2020-12-24 23:18:02,305:INFO:Checking exceptions
+2020-12-24 23:18:02,305:INFO:Preloading libraries
+2020-12-24 23:28:06,925:INFO:Initializing load_model()
+2020-12-24 23:28:06,925:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:28:08,246:INFO:Initializing load_model()
+2020-12-24 23:28:08,247:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:28:08,403:INFO:Initializing predict_model()
+2020-12-24 23:28:08,403:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0215780>]]))
+2020-12-24 23:28:08,405:INFO:Checking exceptions
+2020-12-24 23:28:08,405:INFO:Preloading libraries
+2020-12-24 23:28:45,446:INFO:Initializing load_model()
+2020-12-24 23:28:45,446:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:28:45,604:INFO:Initializing predict_model()
+2020-12-24 23:28:45,604:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF013EBE0>]]))
+2020-12-24 23:28:45,605:INFO:Checking exceptions
+2020-12-24 23:28:45,606:INFO:Preloading libraries
+2020-12-24 23:28:47,962:INFO:Initializing load_model()
+2020-12-24 23:28:47,962:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:30:12,085:INFO:Initializing load_model()
+2020-12-24 23:30:12,085:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:30:47,831:INFO:Initializing load_model()
+2020-12-24 23:30:47,831:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:31:08,612:INFO:Initializing load_model()
+2020-12-24 23:31:08,612:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:31:08,764:INFO:Initializing predict_model()
+2020-12-24 23:31:08,764:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF0228438>]]))
+2020-12-24 23:31:08,766:INFO:Checking exceptions
+2020-12-24 23:31:08,766:INFO:Preloading libraries
+2020-12-24 23:32:59,810:INFO:Initializing load_model()
+2020-12-24 23:32:59,810:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:34:51,152:INFO:Initializing load_model()
+2020-12-24 23:34:51,152:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:35:59,492:INFO:Initializing load_model()
+2020-12-24 23:35:59,492:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:36:07,581:INFO:Initializing load_model()
+2020-12-24 23:36:07,582:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:36:07,747:INFO:Initializing predict_model()
+2020-12-24 23:36:07,748:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B518>]]))
+2020-12-24 23:36:07,749:INFO:Checking exceptions
+2020-12-24 23:36:07,749:INFO:Preloading libraries
+2020-12-24 23:36:39,629:INFO:Initializing load_model()
+2020-12-24 23:36:39,629:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:37:12,483:INFO:Initializing load_model()
+2020-12-24 23:37:12,483:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:37:33,923:INFO:Initializing load_model()
+2020-12-24 23:37:33,924:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:38:10,650:INFO:Initializing load_model()
+2020-12-24 23:38:10,650:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:38:20,847:INFO:Initializing load_model()
+2020-12-24 23:38:20,848:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:38:43,816:INFO:Initializing load_model()
+2020-12-24 23:38:43,816:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:39:21,237:INFO:Initializing load_model()
+2020-12-24 23:39:21,237:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:39:47,311:INFO:Initializing load_model()
+2020-12-24 23:39:47,311:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:39:47,466:INFO:Initializing predict_model()
+2020-12-24 23:39:47,467:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036D3C8>]]))
+2020-12-24 23:39:47,468:INFO:Checking exceptions
+2020-12-24 23:39:47,469:INFO:Preloading libraries
+2020-12-24 23:40:24,708:INFO:Initializing load_model()
+2020-12-24 23:40:24,709:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:40:26,669:INFO:Initializing load_model()
+2020-12-24 23:40:26,669:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:40:26,827:INFO:Initializing predict_model()
+2020-12-24 23:40:26,827:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036BA20>]]))
+2020-12-24 23:40:26,829:INFO:Checking exceptions
+2020-12-24 23:40:26,829:INFO:Preloading libraries
+2020-12-24 23:40:55,484:INFO:Initializing load_model()
+2020-12-24 23:40:55,485:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:40:58,402:INFO:Initializing load_model()
+2020-12-24 23:40:58,402:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:40:58,554:INFO:Initializing predict_model()
+2020-12-24 23:40:58,554:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B7B8>]]))
+2020-12-24 23:40:58,556:INFO:Checking exceptions
+2020-12-24 23:40:58,556:INFO:Preloading libraries
+2020-12-24 23:41:17,817:INFO:Initializing load_model()
+2020-12-24 23:41:17,818:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:41:19,501:INFO:Initializing load_model()
+2020-12-24 23:41:19,501:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:41:19,664:INFO:Initializing predict_model()
+2020-12-24 23:41:19,665:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036BEB8>]]))
+2020-12-24 23:41:19,666:INFO:Checking exceptions
+2020-12-24 23:41:19,666:INFO:Preloading libraries
+2020-12-24 23:42:56,103:INFO:Initializing load_model()
+2020-12-24 23:42:56,104:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:42:58,590:INFO:Initializing load_model()
+2020-12-24 23:42:58,590:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:42:58,750:INFO:Initializing predict_model()
+2020-12-24 23:42:58,751:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B470>]]))
+2020-12-24 23:42:58,752:INFO:Checking exceptions
+2020-12-24 23:42:58,752:INFO:Preloading libraries
+2020-12-24 23:44:02,531:INFO:Initializing load_model()
+2020-12-24 23:44:02,531:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:44:04,562:INFO:Initializing load_model()
+2020-12-24 23:44:04,563:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:44:04,721:INFO:Initializing predict_model()
+2020-12-24 23:44:04,722:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B208>]]))
+2020-12-24 23:44:04,723:INFO:Checking exceptions
+2020-12-24 23:44:04,723:INFO:Preloading libraries
+2020-12-24 23:44:21,060:INFO:Initializing load_model()
+2020-12-24 23:44:21,060:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:44:23,196:INFO:Initializing load_model()
+2020-12-24 23:44:23,196:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:44:23,356:INFO:Initializing predict_model()
+2020-12-24 23:44:23,357:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B7B8>]]))
+2020-12-24 23:44:23,358:INFO:Checking exceptions
+2020-12-24 23:44:23,358:INFO:Preloading libraries
+2020-12-24 23:45:40,985:INFO:Initializing load_model()
+2020-12-24 23:45:40,986:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:45:43,564:INFO:Initializing load_model()
+2020-12-24 23:45:43,564:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:45:43,727:INFO:Initializing predict_model()
+2020-12-24 23:45:43,728:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B320>]]))
+2020-12-24 23:45:43,729:INFO:Checking exceptions
+2020-12-24 23:45:43,730:INFO:Preloading libraries
+2020-12-24 23:46:31,031:INFO:Initializing load_model()
+2020-12-24 23:46:31,031:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:46:32,967:INFO:Initializing load_model()
+2020-12-24 23:46:32,967:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:46:33,108:INFO:Initializing predict_model()
+2020-12-24 23:46:33,109:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B7B8>]]))
+2020-12-24 23:46:33,110:INFO:Checking exceptions
+2020-12-24 23:46:33,110:INFO:Preloading libraries
+2020-12-24 23:47:24,042:INFO:Initializing load_model()
+2020-12-24 23:47:24,042:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:47:26,788:INFO:Initializing load_model()
+2020-12-24 23:47:26,788:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:47:26,944:INFO:Initializing predict_model()
+2020-12-24 23:47:26,945:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B240>]]))
+2020-12-24 23:47:26,946:INFO:Checking exceptions
+2020-12-24 23:47:26,946:INFO:Preloading libraries
+2020-12-24 23:47:38,523:INFO:Initializing load_model()
+2020-12-24 23:47:38,523:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:47:42,713:INFO:Initializing load_model()
+2020-12-24 23:47:42,713:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:47:42,873:INFO:Initializing predict_model()
+2020-12-24 23:47:42,874:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B128>]]))
+2020-12-24 23:47:42,875:INFO:Checking exceptions
+2020-12-24 23:47:42,875:INFO:Preloading libraries
+2020-12-24 23:48:41,460:INFO:Initializing load_model()
+2020-12-24 23:48:41,460:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:48:44,087:INFO:Initializing load_model()
+2020-12-24 23:48:44,088:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:48:44,238:INFO:Initializing predict_model()
+2020-12-24 23:48:44,239:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B4E0>]]))
+2020-12-24 23:48:44,240:INFO:Checking exceptions
+2020-12-24 23:48:44,241:INFO:Preloading libraries
+2020-12-24 23:50:29,568:INFO:Initializing load_model()
+2020-12-24 23:50:29,569:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:50:32,556:INFO:Initializing load_model()
+2020-12-24 23:50:32,556:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:50:32,719:INFO:Initializing predict_model()
+2020-12-24 23:50:32,720:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036BF60>]]))
+2020-12-24 23:50:32,721:INFO:Checking exceptions
+2020-12-24 23:50:32,722:INFO:Preloading libraries
+2020-12-24 23:51:39,755:INFO:Initializing load_model()
+2020-12-24 23:51:39,756:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:51:41,896:INFO:Initializing load_model()
+2020-12-24 23:51:41,897:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:51:42,056:INFO:Initializing predict_model()
+2020-12-24 23:51:42,056:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B048>]]))
+2020-12-24 23:51:42,058:INFO:Checking exceptions
+2020-12-24 23:51:42,058:INFO:Preloading libraries
+2020-12-24 23:51:46,314:INFO:Initializing load_model()
+2020-12-24 23:51:46,314:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:51:47,754:INFO:Initializing load_model()
+2020-12-24 23:51:47,755:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:51:47,907:INFO:Initializing predict_model()
+2020-12-24 23:51:47,907:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B3C8>]]))
+2020-12-24 23:51:47,908:INFO:Checking exceptions
+2020-12-24 23:51:47,909:INFO:Preloading libraries
+2020-12-24 23:52:30,847:INFO:Initializing load_model()
+2020-12-24 23:52:30,847:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:52:37,159:INFO:Initializing load_model()
+2020-12-24 23:52:37,159:INFO:load_model(verbose=True, authentication=None, platform=None, model_name=catboost_loan)
+2020-12-24 23:52:37,316:INFO:Initializing predict_model()
+2020-12-24 23:52:37,317:INFO:predict_model(display=None, ml_usecase=MLUsecase.CLASSIFICATION, verbose=True, round=4, encoded_labels=False, probability_threshold=None, estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Loan_Status')),
+                ('imputer',
+                 Iterative_Imputer(classifier=LGBMClassifier(random_state=123),
+                                   max_iter=5, ordinal_columns=[],
+                                   random_state=123,
+                                   regressor=LGBMRegressor(random_state=123),
+                                   target='Loan_Status')),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strat...
+                ('fix_perfect', Remove_100(target='Loan_Status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select',
+                 Boruta_Feature_Selection(random_state=123, subclass='binary',
+                                          target='Loan_Status',
+                                          top_features_to_pick=0.19999999999999996)),
+                ('fix_multi', 'passthrough'), ('dfs', 'passthrough'),
+                ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000023CF036B8D0>]]))
+2020-12-24 23:52:37,318:INFO:Checking exceptions
+2020-12-24 23:52:37,318:INFO:Preloading libraries
