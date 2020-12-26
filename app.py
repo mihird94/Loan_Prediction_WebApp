@@ -1,10 +1,10 @@
 import pandas as pd 
 import streamlit as st
 import joblib
-from xgboost import XGBClassifier
 import pickle
-
-
+import shap
+from sklearn.ensemble import RandomForestClassifier
+import matplotlib.pyplot as pl
 page_bg_img = '''
 <style>
 body {
@@ -13,17 +13,20 @@ background-size: cover;
 }
 </style>
 '''
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
+X=pickle.load(open(r'dphi3_X_for_shap.pkl','rb'))
 st.markdown(page_bg_img, unsafe_allow_html=True)
-#model=joblib.load('dphi3_xgb.pkl')
-model=pickle.load(open(r'dphi3_xgb_pickle.pkl','rb'))
-#dummycols=joblib.load('dummycols.pkl')
+
+model=pickle.load(open(r'dphi3_rf_pickle.pkl','rb'))
+
 dummycols=pickle.load(open(r'dphi3_dummy_cols.pkl','rb'))
+
+explainer=pickle.load(open(r'dphi3_rf_shap_explainer.pkl','rb'))
 
 st.markdown("<h1 style='text-align: center; color: black;'>Loan Prophet</h1>", unsafe_allow_html=True)
 
 st.markdown('<p><center>Please enter the details below to check if your loan would be approved<center></p>', unsafe_allow_html=True)
-st.markdown('<p><center>This App runs a XGboost model behind the scenes to get the predictions<p><center>', unsafe_allow_html=True)
+st.markdown('<p><center>This App runs a RandomForest model behind the scenes to get the predictions and SHAP to explain the predictions<p><center>', unsafe_allow_html=True)
 
 
 
@@ -64,11 +67,34 @@ test_df_enc=test_df_enc.reindex(columns=dummycols,fill_value=0)
 
 label_dict={0:'Not Approved',1:'Approved!'}
 
-if st.button('Predict'):
-    pred=model.predict(test_df_enc)
-    label=int(pred)
-    st.markdown("<h2 style='color:black;'>The Loan Status is  : %s</h2>" % label_dict[label], unsafe_allow_html=True)
+shap_values=explainer.shap_values(test_df_enc)
+pred=model.predict(test_df_enc)
+label=int(pred)
 
-
-
-st.markdown('<p><center>(NOTE : Credit history is the most sgnificant feature, please toggle it to see instantaneous changes in predicted outcomes )<p><center>', unsafe_allow_html=True)
+left, right = st.beta_columns(2)
+with left:
+    if st.button('Predict'):
+        st.markdown("<h2 style='color:black;'>The Loan Status is  : %s</h2>" % label_dict[label], unsafe_allow_html=True)
+with right:
+    if st.button('Explain'):
+        st.markdown("<h2 style='color:black;'>%s</h2>" % label_dict[label], unsafe_allow_html=True)
+        st.write('Which features caused this specific prediction? features in red increased the prediction towards approved, in blue decreased them')
+        st.write('Please Zoom in to View the SHAP plot!')
+        
+        fig=shap.force_plot(explainer.expected_value[1], shap_values[1][0,:],test_df_enc.iloc[0,:],matplotlib=True,show=False,figsize=(20,5))
+   
+        st.pyplot(fig,bbox_inches='tight',dpi=300,pad_inches=0)
+        pl.clf()
+        
+        st.write('Detailed Table of the SHAP Values given below: ')
+        
+        shap_table=pd.DataFrame(shap_values[1],columns=dummycols)
+        st.table(shap_table.iloc[0])
+if st.button('Show Global Feature Importance'):
+    st.write('This is the summary plot based on Shapley values for the training set, The higher the average absolute shap value, more more the feature. In Our case, Credit History is the most important feature picked by the model')
+    fig2=shap.summary_plot(X[1], X[0], plot_type='bar',show=False)
+    st.pyplot(fig2,bbox_inches='tight',dpi=300,pad_inches=0)
+    pl.clf()
+        
+st.markdown('<p><center>(NOTE : Credit history is the most significant feature, please toggle it to see instantaneous changes in predicted outcomes )<p><center>', unsafe_allow_html=True)
+st.markdown('Read More about SHAP here:- [Link to Documentation](https://shap.readthedocs.io/en/latest/)')
